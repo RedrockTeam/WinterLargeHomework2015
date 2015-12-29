@@ -73,20 +73,20 @@
 - 前端发展很快，可以选择性的看一下一些工具、类库、框架：LESS,SASS,requirejs,jQuery等等
 - AJAX很重要，前端的单页应用是发展趋势
 - 书目推荐: 犀牛书 (JavaScript权威指南：基础, 刚开始很难啃, 没事就翻翻)、蝴蝶书（语言精粹：矫正编码习惯，专业前端的第一步）、你所不知道的Javascript、JavaScript高级程序设计 (我没看过，据说很好，很多前端技巧), 买书可以去亚马逊, 淘宝很多假货, 假书可以看但是我很鄙视, 没钱就去下PDF吧, 从压岁钱里拿几十块钱买书不过分吧！
-- `share` http://pan.baidu.com/s/1qXdoZQs#path=%252Fbook-share%252Fbook
+- `share` [http://pan.baidu.com/s/1qXdoZQs#path=%252Fbook-share%252Fbook](http://pan.baidu.com/s/1qXdoZQs#path=%252Fbook-share%252Fbook)
 
 #### 后端
+
 - 看看Linux, 看看shell, Linux装个虚拟机玩玩, 书的话: 鸟哥的私房菜, shell脚本学习指南
 - 面向对象!!!
 - 操作系统知识和计算机网络知识, 光PHP的话知识结构有缺陷
 
 #### 呵呵
 
-- 到时候分最高的组我请吃饭                 --Ling.
-- 前端我认为写的最好的我送一本书      		--Ling.
-- 第二名有神秘奖品, 不要问我为什么第一名没有  --咬碎
-
-
+- 到时候分最高的组我请吃饭          --Ling.
+- 前端我认为写的最好的我送一本书     --Ling.
+- 没想好送啥
+- 没想好送啥+1                    --咬碎
 
 ### 附1：还活着的学员名单
 
@@ -123,6 +123,7 @@
 - 杨飞
 - 张智勇
 - 郝也
+- 雷恒林
 
 #### 后端(按随意排序)
 
