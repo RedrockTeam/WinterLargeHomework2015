@@ -70,6 +70,8 @@
 ​	不要浪费假期的时间, if so, 你会知道这是很值的. 我给你们推荐一些前端方面的学习路线:
 
 - ！！！多写东西！！！，基础不好的补基础，有一定基础之后去看布局、动画、JS等等，一定要写东西，光看书看东西没点点杰宝用
+- 代码灵感：codepen.io
+- JS参考：[http://javascript.ruanyifeng.com](http://javascript.ruanyifeng.com)
 - 作为参考，我大一寒假之前用了两个通宵纯手工做着玩的东西：https://gp.zeroling.com/ ，后端是PHP原生的，你们加油，当然不要以为你们也能两天就实现出来
 - 前端发展很快，可以选择性的看一下一些工具、类库、框架：LESS,SASS,requirejs,jQuery,等等
 - AJAX很重要，前端的单页应用是发展趋势
