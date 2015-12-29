@@ -135,46 +135,46 @@
   
   - 阅读代码的技能，不会看代码还写啥代码→_→
     
-  - `数组`(重点)创建数组， 稀释数组， 数组长度， 多维数组`基本数组方法, pop, push, shift ...``ECMA5 数组方法, forEach, map, reduce`类数组与真数组， 已经如何将类数组转换成真数组, 如何区分类数组和真数组如何使用数组方法进行字符串操作 (Array.prototype.join.call, Array.prototype.fliter.call])
+  - `数组`(重点)创建数组， 稀释数组， 数组长度， 多维数组基本数组方法,` pop, push, shift` ...ECMA5 数组方法, `forEach, map, reduce`类数组与真数组， 已经如何将类数组转换成真数组, 如何区分类数组和真数组如何使用数组方法进行字符串操作 (Array.prototype.join.call, Array.prototype.fliter.call])
     
-  - `对象`(重点)`对象类型判断（Object.prototype.toString.call）`对象属性检测
+  - `对象`(重点)对象类型判断（Object.prototype.toString.call）对象属性检测
     
-    `属性枚举 for/in 以及 for in 和对象原型的关系， 如何避免枚举到继承的属性``序列化对象 Object.stringify, Object.toJSON`Object.create （在原型继承会用到！）Object.keys`this 指针的指向问题(新生开学的笔试题哦)`
+    属性枚举 for/in 以及 for in 和对象原型的关系， 如何避免枚举到继承的属性. 序列化对象 Object.stringify, Object.toJSON, Object.create （在原型继承会用到！）Object.keys, this 指针的指向问题
     
-  - `函数`(重点)函数定义， 函数声明和函数赋值的区别`函数的call, apply 方法``作用域与作用域链`学会使用将一些属性保存在函数中， 可以显著提高性能`闭包``arguments 对象`原型对象prototype通过bind修改函数指针函数式编程, 使用函数来操控函数`巧用闭包实现区部作用域`
+  - `函数`(重点)函数定义， 函数声明和函数赋值的区别函数的call, apply 方法. 作用域与作用域链. 学会使用将一些属性保存在函数中， 可以显著提高性能`闭包`,`arguments 对象`,原型对象prototype通过bind修改函数指针函数式编程, 使用函数来操控函数,巧用闭包实现区部作用域
     
   - 类 (可选掌握, 可暂时不要求)
     
   - 正则表达式（可选掌握， 可暂时不要求）
     
-  - `Ajax` (重点中的重点)`GET 方法``POST 方法`Restful API浏览器跨域与同源策略Websocket
+  - `Ajax` (重点中的重点)`GET` 方法`POST` 方法Restful API浏览器跨域与同源策略WebSocket
     
   - Window API
     
-    - `setTimeout, setInterval 基本用法`
+    - `setTimeout, setInterval` 基本用法
     - 理解setTimeout, setInterval 中的异步事件队列
-    - `location对象`
-    - `navigator对象`
+    - `location`对象
+    - `navigator`对象
     - 错误处理
     - window 与iframe 以及同源策略与iframe
     
-  - DOM API （住店）
+  - DOM API （重点）
     
-    - `啥是DOM树`
-    - `删除节点， 创建节点， 节点类型`
-    - `获取元素属性`
+    - 啥是DOM树
+    - 删除节点， 创建节点， 节点类型
+    - 获取元素属性
     - Form API
-    - `CSS 操作(style, H和getComputedStyle)`
-    - `getElement[byId, sByClassName, sByTagName]等选择器`
-    - `querySelector, querySelectorAll 的选择器`
-    - 上面2中选择器的区别， （动态，性能，兼容）
+    - CSS 操作`(style, H和getComputedStyle)`
+    - `getElement[byId, sByClassName, sByTagName]`等选择器
+    - `querySelector, querySelectorAll `的选择器
+    - 上面两种选择器的区别， （动态，性能，兼容）
     
   - 事件 (重点)
     
-    - `冒泡和捕捉`
-    - `基本浏览器事件（load, click, mouseover, mouse out, blur, b,submit...）`
-    - `去除浏览器模式事件`
-    - `如何阻止事件冒泡`
+    - 冒泡和捕捉
+    - 基本浏览器事件`（load, click, mouseover, mouse out, blur, b,submit...）`
+    - 去除浏览器模式事件
+    - 如何阻止事件冒泡
     - 匿名函数与事件监听的取消
     
   - 面向对象(可选掌握, 可暂时不要求)
@@ -206,9 +206,9 @@
 #### 呵呵
 
 - 到时候分最高的组我请吃饭          --Ling.
-- 前端我认为写的最好的我送一本书     --Ling.
-- 没想好送啥
-- 没想好送啥+1                    --咬碎
+- 前端写的最好的送一本书     --赵小宇.
+- 没想好送啥(反正会有)                        --隆胸
+- 没想好送啥(反正会有)+1                    --咬碎
 
 ### 附1：还活着的学员名单
 
