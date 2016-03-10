@@ -374,7 +374,7 @@
 | 李立平  |  杨周  |  15   | https://github.com/Lpxue/bili-homework.git |
 | 张智勇  | 陈倩倩  |  16   | https://github.com/lksatan/winter-homework.git |
 | 於光晶  | 魏天嘉  |  17   |                                          |
-| 王静怡  | 黄思翔  |  18   |                                          |
+| 王静怡  | 黄思翔  |  18   |    https://github.com/toppel/news.git    |
 | 杨新雷  |  李佩  |  19   |    https://github.com/proYang/myBlog     |
 | 王晨宇  | 黄子依  |  20   |                                          |
 |  曾玉  | 陈馨怡  |  21   | https://github.com/tobacco91/blog/tree/master/ciblog |
