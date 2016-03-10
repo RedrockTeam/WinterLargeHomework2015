@@ -40,7 +40,6 @@
 - 后端`可以使用`你认为好用的框架
 
 
-
 #### 知乎
 
 1. 首页
@@ -50,7 +49,6 @@
 5. 其他功能: 赞同/踩问题, 收藏, 搜索
 6. [选作]分享到微博贴吧空间
 7. \[选作\]搜索
-
 
 
 #### 博客
@@ -64,7 +62,6 @@
 7. [选作]日志分类/标签
 8. [选作]日历，在日历上显示自己今天是否有博文，点击当天日期后可跳转至当天博文列表, 后台删除
 9. [选作]时间轴，把所有的日志显示在一条轴上，实在不懂就百度。
-
 
 
 #### B站
@@ -81,7 +78,6 @@
 8. [选作]浏览历史, 收藏功能
 
 
-
 ### 单身狗作业
 
 - 特别申请的，仅限回家没网的同学专用，单人完成
@@ -95,7 +91,6 @@
 #### 后端: 无
 
 - 后端所有人都有网!!!
-
 
 
 ### 其他
@@ -124,41 +119,41 @@
 ##### 前端必备的技能
 
 - CSS
-  
+
   - 阅读代码的技能, 不会阅读代码怎么用我提供给你们的UI框架
   - CSS 布局技能, 不会居中的乘早转行吧→_→
   - 盒模型技能
   - 基本的页面兼容 IE8+
-  
+
 - JS
-  
+
   - 阅读代码的技能，不会看代码还写啥代码→_→
-    
+
   - `数组`(重点)创建数组， 稀释数组， 数组长度， 多维数组基本数组方法,` pop, push, shift` ...ECMA5 数组方法, `forEach, map, reduce`类数组与真数组， 已经如何将类数组转换成真数组, 如何区分类数组和真数组如何使用数组方法进行字符串操作 (Array.prototype.join.call, Array.prototype.fliter.call])
-    
+
   - `对象`(重点)对象类型判断（Object.prototype.toString.call）对象属性检测
-    
+
     属性枚举 for/in 以及 for in 和对象原型的关系， 如何避免枚举到继承的属性. 序列化对象 Object.stringify, Object.toJSON, Object.create （在原型继承会用到！）Object.keys, this 指针的指向问题
-    
+
   - `函数`(重点)函数定义， 函数声明和函数赋值的区别函数的call, apply 方法. 作用域与作用域链. 学会使用将一些属性保存在函数中， 可以显著提高性能`闭包`,`arguments 对象`,原型对象prototype通过bind修改函数指针函数式编程, 使用函数来操控函数,巧用闭包实现区部作用域
-    
+
   - 类 (可选掌握, 可暂时不要求)
-    
+
   - 正则表达式（可选掌握， 可暂时不要求）
-    
+
   - `Ajax` (重点中的重点)`GET` 方法`POST` 方法Restful API浏览器跨域与同源策略WebSocket
-    
+
   - Window API
-    
+
     - `setTimeout, setInterval` 基本用法
     - 理解setTimeout, setInterval 中的异步事件队列
     - `location`对象
     - `navigator`对象
     - 错误处理
     - window 与iframe 以及同源策略与iframe
-    
+
   - DOM API （重点）
-    
+
     - 啥是DOM树
     - 删除节点， 创建节点， 节点类型
     - 获取元素属性
@@ -167,33 +162,33 @@
     - `getElement[byId, sByClassName, sByTagName]`等选择器
     - `querySelector, querySelectorAll `的选择器
     - 上面两种选择器的区别， （动态，性能，兼容）
-    
+
   - 事件 (重点)
-    
+
     - 冒泡和捕捉
     - 基本浏览器事件`（load, click, mouseover, mouse out, blur, b,submit...）`
     - 去除浏览器模式事件
     - 如何阻止事件冒泡
     - 匿名函数与事件监听的取消
-    
+
   - 面向对象(可选掌握, 可暂时不要求)
-    
+
   - 面向对象与对象原型(可选掌握, 可暂时不要求)
-    
+
   - 对象原型与原型链(可选掌握, 可暂时不要求)
-  
+
 - canvas
-  
+
 - localStorage
-  
+
 - CSS3 动画
-  
+
 - 响应式布局
-  
+
 - ajax
-  
+
 - REM/EM
-  
+
 - 移动端浏览器兼容
 
 #### 后端
@@ -361,3 +356,46 @@
 - 图尔荪阿依
 - 杨飞
 - 张欣悦
+
+
+
+###作业完成情况 2016年03月10日
+
+|  前端  |  后端  |  备注   |                   Git                    |
+| :--: | :--: | :---: | :--------------------------------------: |
+| 游舒婕  | 谭丙章  |   1   | https://github.com/AlexTan-b-z/blog-winter    www.alextan.site |
+| 杭景帆  |  严澄  |   2   |  https://github.com/ClarifyingYAN/Blog   |
+| 吴君涛  |  甘锐  |   3   |                                          |
+| 李敏娴  | 叶成林  |   4   |    https://github.com/vivilmx/Pratice    |
+| 罗方霞  | 杨博艺  |   5   | https://github.com/lfx520/luofangxia.git |
+| 黄卿怡  |  陈豪  |   6   |                                          |
+| 白政英  | 彭远志  |   7   |                                          |
+| 张曦镱  | 蒋天星  |   8   | https://github.com/jx3536/winter-homework/tree/master |
+| 刘竣豪  | 霍江钿  |   9   |  https://github.com/Citron504/Bilibili   |
+|  张彦  | 王炜松  |  10   | https://github.com/vanilla111/1_test/tree/master/bilibili |
+| 胡佩雯  | 何知轩  |  11   |                                          |
+| 刘荣博  | 刘伟红  |  12   | https://github.com/lrb2333/WinterHomework.git |
+| 杨潇涵  | 吴培楠  |  13   | https://github.com/pumbf/winter-homework  www.pumbf.online/winter-homework/html/home.html |
+| 雷恒林  |  王超  |  14   |                                          |
+| 李立平  |  杨周  |  15   | https://github.com/Lpxue/bili-homework.git |
+| 张智勇  | 陈倩倩  |  16   | https://github.com/lksatan/winter-homework.git |
+| 於光晶  | 魏天嘉  |  17   |                                          |
+| 王静怡  | 黄思翔  |  18   |                                          |
+| 杨新雷  |  李佩  |  19   |    https://github.com/proYang/myBlog     |
+| 王晨宇  | 黄子依  |  20   |                                          |
+|  曾玉  | 陈馨怡  |  21   | https://github.com/tobacco91/blog/tree/master/ciblog |
+| 秦银泽  | 查森云  |  22   | https://github.com/MarkinZzz/rockwinter  |
+| 张兰秋月 | 杜剑峰  |  23   | https://github.com/czylb/blog.git          https://github.com/SeptembeRaiN/gittest.git |
+| 文俊霖  | 魏恒琨  |  24   | https://github.com/PkongStudio/Blog.git  |
+| 蒋清瀚  | 王经纬  |  25   | https://github.com/JiaJia01/2015_Winter_Project.git |
+| 刘劲飞  | 刘劲飞  | 26.单人 |                                          |
+| 徐菁馨  |  杨越  |  27   |                                          |
+
+- 图尔荪阿依
+- 杨飞 
+- 王威 https://github.com/Domino2015/work
+- 张欣悦 https://github.com/moonxinyue/vocations.git
+
+
+- 赵晏? [https://github.com/you8023/wangye/tree/c249746e4b86dfcb4a28aff17114f426557e88c2/wy
+
