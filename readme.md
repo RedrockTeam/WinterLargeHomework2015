@@ -39,7 +39,6 @@
 - 前端`可以使用`jQuery等类库/框架
 - 后端`可以使用`你认为好用的框架
 
-
 #### 知乎
 
 1. 首页
@@ -49,7 +48,6 @@
 5. 其他功能: 赞同/踩问题, 收藏, 搜索
 6. [选作]分享到微博贴吧空间
 7. \[选作\]搜索
-
 
 #### 博客
 
@@ -62,7 +60,6 @@
 7. [选作]日志分类/标签
 8. [选作]日历，在日历上显示自己今天是否有博文，点击当天日期后可跳转至当天博文列表, 后台删除
 9. [选作]时间轴，把所有的日志显示在一条轴上，实在不懂就百度。
-
 
 #### B站
 
@@ -77,7 +74,6 @@
    2. 脑洞大开: 比如说一级的时候弹幕是h5标签, 二级的时候弹幕是h4标签→_→...
 8. [选作]浏览历史, 收藏功能
 
-
 ### 单身狗作业
 
 - 特别申请的，仅限回家没网的同学专用，单人完成
@@ -91,7 +87,6 @@
 #### 后端: 无
 
 - 后端所有人都有网!!!
-
 
 ### 其他
 
@@ -358,7 +353,6 @@
 - 张欣悦
 
 
-
 ###作业完成情况 2016年03月10日
 
 |  前端  |  后端  |  备注   |                   Git                    |
@@ -373,7 +367,7 @@
 | 张曦镱  | 蒋天星  |   8   | https://github.com/jx3536/winter-homework/tree/master |
 | 刘竣豪  | 霍江钿  |   9   |  https://github.com/Citron504/Bilibili   |
 |  张彦  | 王炜松  |  10   | https://github.com/vanilla111/1_test/tree/master/bilibili |
-| 胡佩雯  | 何知轩  |  11   |                                          |
+| 胡佩雯  | 何知轩  |  11   |     https://github.com/Waterx/origin     |
 | 刘荣博  | 刘伟红  |  12   | https://github.com/lrb2333/WinterHomework.git |
 | 杨潇涵  | 吴培楠  |  13   | https://github.com/pumbf/winter-homework  www.pumbf.online/winter-homework/html/home.html |
 | 雷恒林  |  王超  |  14   |                                          |
@@ -398,4 +392,3 @@
 
 
 - 赵晏? [https://github.com/you8023/wangye/tree/c249746e4b86dfcb4a28aff17114f426557e88c2/wy
-
