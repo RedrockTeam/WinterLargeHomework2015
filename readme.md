@@ -369,7 +369,7 @@
 | 胡佩雯  | 何知轩  |  11   |     https://github.com/Waterx/origin     |
 | 刘荣博  | 刘伟红  |  12   | https://github.com/lrb2333/WinterHomework.git |
 | 杨潇涵  | 吴培楠  |  13   | https://github.com/pumbf/winter-homework  www.pumbf.online/winter-homework/html/home.html |
-| 雷恒林  |  王超  |  14   |                                          |
+| 雷恒林  |  王超  |  14   | http://github.com/passager123/mybolg.git |
 | 李立平  |  杨周  |  15   | https://github.com/Lpxue/bili-homework.git |
 | 张智勇  | 陈倩倩  |  16   | https://github.com/lksatan/winter-homework.git |
 | 於光晶  | 魏天嘉  |  17   |                                          |
