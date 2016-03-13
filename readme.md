@@ -352,7 +352,6 @@
 - 杨飞
 - 张欣悦
 
-
 ###作业完成情况 2016年03月10日
 
 |  前端  |  后端  |  备注   |                   Git                    |
@@ -376,7 +375,7 @@
 | 於光晶  | 魏天嘉  |  17   |                                          |
 | 王静怡  | 黄思翔  |  18   |    https://github.com/toppel/news.git    |
 | 杨新雷  |  李佩  |  19   |    https://github.com/proYang/myBlog     |
-| 王晨宇  | 黄子依  |  20   |                                          |
+| 王晨宇  | 黄子依  |  20   |     https://github.com/huangzyi/blog     |
 |  曾玉  | 陈馨怡  |  21   | https://github.com/tobacco91/blog/tree/master/ciblog |
 | 秦银泽  | 查森云  |  22   | https://github.com/MarkinZzz/rockwinter  |
 | 张兰秋月 | 杜剑峰  |  23   | https://github.com/czylb/blog.git          https://github.com/SeptembeRaiN/gittest.git |
