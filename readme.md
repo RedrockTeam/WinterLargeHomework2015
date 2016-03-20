@@ -354,40 +354,51 @@
 
 ###作业完成情况 2016年03月10日
 
-|  前端  |  后端  |  备注   |                   Git                    |
-| :--: | :--: | :---: | :--------------------------------------: |
-| 游舒婕  | 谭丙章  |   1   | https://github.com/AlexTan-b-z/blog-winter    www.alextan.site |
-| 杭景帆  |  严澄  |   2   |  https://github.com/ClarifyingYAN/Blog   |
-| 吴君涛  |  甘锐  |   3   |                                          |
-| 李敏娴  | 叶成林  |   4   |    https://github.com/vivilmx/Pratice    |
-| 罗方霞  | 杨博艺  |   5   | https://github.com/lfx520/luofangxia.git |
-| 黄卿怡  |  陈豪  |   6   |                                          |
-| 白政英  | 彭远志  |   7   |                                          |
-| 张曦镱  | 蒋天星  |   8   | https://github.com/jx3536/winter-homework/tree/master |
-| 刘竣豪  | 霍江钿  |   9   |  https://github.com/Citron504/Bilibili   |
-|  张彦  | 王炜松  |  10   | https://github.com/vanilla111/1_test/tree/master/bilibili |
-| 胡佩雯  | 何知轩  |  11   |     https://github.com/Waterx/origin     |
-| 刘荣博  | 刘伟红  |  12   | https://github.com/lrb2333/WinterHomework.git |
-| 杨潇涵  | 吴培楠  |  13   | https://github.com/pumbf/winter-homework  www.pumbf.online/winter-homework/html/home.html |
-| 雷恒林  |  王超  |  14   | http://github.com/passager123/mybolg.git |
-| 李立平  |  杨周  |  15   | https://github.com/Lpxue/bili-homework.git |
-| 张智勇  | 陈倩倩  |  16   | https://github.com/lksatan/winter-homework.git |
-| 於光晶  | 魏天嘉  |  17   |                                          |
-| 王静怡  | 黄思翔  |  18   |    https://github.com/toppel/news.git    |
-| 杨新雷  |  李佩  |  19   |    https://github.com/proYang/myBlog     |
-| 王晨宇  | 黄子依  |  20   |     https://github.com/huangzyi/blog     |
-|  曾玉  | 陈馨怡  |  21   | https://github.com/tobacco91/blog/tree/master/ciblog |
-| 秦银泽  | 查森云  |  22   | https://github.com/MarkinZzz/rockwinter  |
-| 张兰秋月 | 杜剑峰  |  23   | https://github.com/czylb/blog.git          https://github.com/SeptembeRaiN/gittest.git |
-| 文俊霖  | 魏恒琨  |  24   | https://github.com/PkongStudio/Blog.git  |
-| 蒋清瀚  | 王经纬  |  25   | https://github.com/JiaJia01/2015_Winter_Project.git |
-| 刘劲飞  | 刘劲飞  | 26.单人 |                                          |
-| 徐菁馨  |  杨越  |  27   |                                          |
+|  前端  |  后端  |                    前端                    |                   Git                    |
+| :--: | :--: | :--------------------------------------: | :--------------------------------------: |
+| 游舒婕  | 谭丙章  | 前端的话，有些节点层次嵌套过深，甚至有一些无用的层次，代码缩进看起来比较别扭，但是选择器在街上的选择可以，命名也比较规范，对于多个elseif还是来个switch比较好..代码缩进乱 | https://github.com/AlexTan-b-z/blog-winter    www.alextan.site |
+| 杭景帆  |  严澄  |      前端页面粗糙，基本没什么特效，博客功能还待完善，前端偷懒啊       |  https://github.com/ClarifyingYAN/Blog   |
+| 吴君涛  |  甘锐  |                                          |                                          |
+| 李敏娴  | 叶成林  | 321M的文件你上传git用了多久 (﹁"﹁) ，记得以后去掉图片视频等资源，直接用链接代替..目录结构有点坑，文件夹命名也有问题，不要用中文，前端的话，就代码规范来说比较好，但是在选择器上运用上太坑，感觉像是全部元素都在浮动。。。最好不要砌砖头，js的话，我发现有很多人都喜欢在绑定事件的时候一个一个的去绑，不会代理就用for嘛。编码记得设成UTF-8，轮播没有实现 |    https://github.com/vivilmx/Pratice    |
+| 罗方霞  | 杨博艺  | 页面在firefox上和chrome上都崩了,没有看到后台文件，每次更新版本不用都从新push一个新的dir上去吧，链接都是有效链接，这个好评，出于好奇，clone下来看了下，-_-\|\|,有点像是赶得作业，连评论都是前端静态的，是不是git地址错了...命名风格不太好，少用拼音以及xx1，xx2这种命名，尤其是减少123命名的id。,input框里的原始文字，placeholder比value合适。,多个input用一个form标签就好，不用一个input一个form,没有后台，所以后台是跪了么。,文件夹分类太乱,只有登录页面和主页，主页面基本可以看。,js太少，而且事件都是绑定id,css还行，HTML标签和属性略弱，js就更弱了。 | https://github.com/lfx520/luofangxia.git |
+| 黄卿怡  |  陈豪  |                    6                     |                                          |
+| 白政英  | 彭远志  |                    7                     |                                          |
+| 张曦镱  | 蒋天星  | 基本上还可以, 细节上问题比较多, 文件命名, 静态资源目录叫img. 用了KindEditor好评, js写的比较简单 | https://github.com/jx3536/winter-homework/tree/maste |
+| 刘竣豪  | 霍江钿  | 写readme是个好习惯，页面很完整，各种小细节很赞，大一这个水平都没什么好吐槽了。有eq(0),eq(1)之类的代码, JQ的使用也是一门学问.用了一大堆DOM选择器，也许可以使用一次循环或者事件代理来缩减90%的js代码？ |  https://github.com/Citron504/Bilibili   |
+|  张彦  | 王炜松  | b站基本结构完好，但在细节部分有很多问题，比如搜索框，视频简介的文字等。git 不同的项目应该放到不同的仓库里面,页面没有崩溃，IE下面也没有,使用了CSS3的渐变,JS不应该使用getElementsByClassName，addEventListener也没有使用，又一次出现了并不需要的'use strict'. 轮播没有实现 | https://github.com/vanilla111/1_test/tree/master/bilibili |
+| 胡佩雯  | 何知轩  |   目录清晰明了，分类做的不错  ,原生没有框架,前端写的还不错，至少没崩    |     https://github.com/Waterx/origin     |
+| 刘荣博  | 刘伟红  |            前端做的还不错(就是页面太少了诶)             | https://github.com/lrb2333/WinterHomework.git |
+| 杨潇涵  | 吴培楠  | 禁止往git上传压缩包！！！！！页面还行吧，页面没有崩，放大缩小没问题,图标和文字对不齐太明显了，太懒，好歹也把位置调一下吧，样式都不怎么写真的好么,判断了注册页面有简单的判断，可是点击确定出现弹框“错误0”,使用了正则,小动画还不错轮播没有实现，页面结构比较简单，在chrom下表现不佳. ajax原生实现没有考虑IE的兼容 | https://github.com/pumbf/winter-homework  www.pumbf.online/winter-homework/html/home.html |
+| 雷恒林  |  王超  |    几乎没有前端,代码缩进全是乱的,页面崩溃, 后端PHP部分也太水了     | http://github.com/passager123/mybolg.git |
+| 李立平  |  杨周  | git 我clone的时候一共有100多M，把视频也提交上去了,前端页面做的比较简单，但是布局和CSS都还可以,对于输入文本的格式有判断,JS使用了Jquery，也看得出来对上学期强调的一些东西掌握的比较好，但是'use strict'使用错了 | https://github.com/Lpxue/bili-homework.git |
+| 张智勇  | 陈倩倩  |                  git不会用                  | https://github.com/lksatan/winter-homework.git |
+| 於光晶  | 魏天嘉  |                    17                    |                                          |
+| 王静怡  | 黄思翔  | 前端布局没有按照要求来,CSS使用还行，对一些属性加了前缀，还使用了一些css3属性，并且做了蒙版特效,JS单独写文件，全部堆在index下面,JS太冗长，可以使用函数封装和ECMA5函数来简化代码 |    https://github.com/toppel/news.git    |
+| 杨新雷  |  李佩  | 在线上放着了,实现了（原生js）瀑布流，回到顶部按钮,html 头有点混，整个项目写得不错 |    https://github.com/proYang/myBlog     |
+| 王晨宇  | 黄子依  |         使用了后端框架模板引擎分离了html结构, 但是         |     https://github.com/huangzyi/blog     |
+|  曾玉  | 陈馨怡  | 前端质量不错, 但是GIT使用上有点问题.前端使用iconfont，但出现了中文文件夹 | https://github.com/tobacco91/blog/tree/master/cibloy |
+| 秦银泽  | 查森云  | 功能做得比较全，考虑到了很多方面.图切得不好，做的知乎，没有大的崩坏，但是样式不好看.用了 iconfont 切小图标 | https://github.com/MarkinZzz/rockwinter  |
+| 张兰秋月 | 杜剑峰  |           有css3动画,配色布局什么的挺和谐的            | https://github.com/czylb/blog.git          https://github.com/SeptembeRaiN/gittest.git |
+| 文俊霖  | 魏恒琨  | 使用了iconfont, 使用了jQ, 注释比较完整, 使用了CSS3动画. 不错不错, 但是Public目录下面结构太深了 | https://github.com/PkongStudio/Blog.git  |
+| 蒋清瀚  | 王经纬  | 目录结构不清晰，练习的 demo 和作业放在一起，看不懂,博客界面样式将就，没有崩掉，CSS 使用了样式重置（reset.css），html 头版本太老,使用了 jQuery,只有博客首页有样式，注册页面 登录页面 没有写样式,绝对路径太多（php 和 CSS 都存在这个情况） | https://github.com/JiaJia01/2015_Winter_Project.git |
+| 刘劲飞  | 刘劲飞  |                  26.单人                   |                                          |
+| 徐菁馨  |  杨越  |                    27                    |                                          |
 
 - 图尔荪阿依
 - 杨飞 
 - 王威 https://github.com/Domino2015/work
+  - 有自己的个人博客还不错，看学习心得感觉还是比较认真学习的孩子。,body的width和height写死了，居中自适应什么的都要认真学啊，感觉静态页面和原图的差距还是蛮大的，图切少了吧，推荐多看看张鑫旭的博客，,看视频的话，要试一试自己在脱离视频的情况下能不能撸出来，这样才算是学会，不然视频看多了也没有，看书同理啊。,ajax和轮播图都没有。
+  - "建议": "这学期可以自己多写一点好玩的东西比如一些简单的游戏啊，轮播插件动画函数封装什么的，跟着网上的demo写几次后就自己试着去写"
+
+    ​
+
+
+
 - 张欣悦 https://github.com/moonxinyue/vocations.git
+  - 读书心得写得挺认真的
+  - 切图作业整体上是完成了的, 但是细节上还是有很多问题, 可以尝试一些新的东西来做
+
 
 
 - 赵晏? [https://github.com/you8023/wangye/tree/c249746e4b86dfcb4a28aff17114f426557e88c2/wy
+  -  git 不明白为什么要删除git上面的最新的commit，然后发送上次commit的地址。刚clone下来的时候我是懵比的，因为什么也没有，后来我手动回到他上次的commit,前端页面从审美的角度来讲，我觉得还行。,从技术的角度上： 1.使用了icon矢量图标 2. 使用了CSS3，做了一个搜索框的动画 3. 有兼容IE的意识（透明度），而且能够兼容到IE9，当然这主要也是他页面简单的原因 4. 对于上学期讲的CSS和页面布局有比较好的掌握 5. JS需要多下功夫，轮播图逻辑还可以，但是上学期讲的并且强调的一些东西并没有用上去，比如querySelector, addEventListener等, 前后端没有对接，其他的登陆，发表文章等，指向的php文件都不存在
